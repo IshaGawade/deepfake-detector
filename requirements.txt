@@ -1,0 +1,10 @@
+streamlit
+plotly
+opencv-python
+transformers
+Pillow
+torch
+torchvision
+timm
+numpy
+matplotlib
